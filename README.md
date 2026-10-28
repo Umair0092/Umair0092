@@ -14,7 +14,7 @@ Then came **Lawzo**, a legal marketplace. A client describes their problem, AI h
 
 These days I'm on **TireTag**, a traffic rules enforcement platform we build for a client. I own the technical side of the project: how it's structured, what goes into each release, and what gets merged.
 
-Along the way I tried other stacks to see how they compare: MERN, Flutter for mobile ([Bookify](https://github.com/Umair0092/Bookify)), FastAPI. I keep coming back to Rails, but each detour taught me something I brought back with me. At HackXVI, the LUMS web hackathon, my team finished in the top five out of 20.
+Along the way I tried other stacks to see how they compare: MERN, Flutter for mobile ([Bookify](https://github.com/Umair0092/Bookify)), FastAPI. I keep coming back to Rails, but each detour taught me something I brought back with me.
 
 That work is client code, so it stays private. What's below is what I build for myself.
 
