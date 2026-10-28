@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0000,100:cc0000&height=170&section=header&text=Umair%20Hassan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Ruby%20on%20Rails%20Developer%20%E2%80%A2%20Backend%20%26%20APIs&descSize=18&descAlignY=58" width="100%" alt="Umair Hassan" />
+<img src="./assets/header.svg" width="100%" alt="Umair Hassan, Ruby on Rails Developer" />
 
-<a href="https://github.com/Umair0092">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=CC0000&center=true&vCenter=true&width=620&lines=Building+production+Rails+apps+since+2023;Team+Lead+%40+QbitxSystems;Hotwire+%E2%80%A2+PostgreSQL+%E2%80%A2+RSpec+%E2%80%A2+ActionCable;Shipping+AI+features+into+Rails+apps" alt="Typing SVG" />
-</a>
+<img src="./assets/typing.svg" alt="Building production Rails apps since 2023" />
 
 <p>
   <a href="https://www.linkedin.com/in/umair-hassan-1a11b12b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -34,6 +32,27 @@ I'm a **Ruby on Rails developer** from Lahore, Pakistan, with 3+ years building 
 
 ### 🚀 Featured projects
 
+#### 🎙️ [Nexora](https://github.com/Umair0092/Nexora): AI interview practice and hiring platform
+
+Answer out loud to an AI interviewer that has read your CV, then get a scored report on **what you said and how you came across on camera**. Hiring teams use the same interviewer to screen candidates, with a pipeline board, team scorecards and side-by-side comparison.
+
+<img src="https://img.shields.io/badge/Rails_8-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_LLM_+_Whisper-F55036?style=flat-square" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
+
+<p align="center">
+  <img src="./assets/nexora/demo.gif" width="100%" alt="Nexora walkthrough: landing page, hiring pipeline, candidate review and comparison" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/nexora/report-section.jpg" alt="Scored interview feedback" /><p align="center"><sub>Per-answer scores with what worked and what to change</sub></p></td>
+    <td width="50%"><img src="./assets/nexora/job.jpg" alt="Hiring pipeline board" /><p align="center"><sub>Hiring pipeline with AI, team and CV-match scores</sub></p></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/nexora/candidate.jpg" alt="Candidate review" /><p align="center"><sub>Candidate review: transcripts, advisory AI summary, scorecards</sub></p></td>
+    <td width="50%"><img src="./assets/nexora/compare.jpg" alt="Candidate comparison" /><p align="center"><sub>Compare 2 to 4 candidates on the same questions</sub></p></td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -44,26 +63,10 @@ I'm a **Ruby on Rails developer** from Lahore, Pakistan, with 3+ years building 
       <img src="https://img.shields.io/badge/LLM-000000?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Umair0092/Nexora">🎙️ Nexora</a></h4>
-      AI mock interview platform: CV-based, behavioral (STAR) and technical interviews you answer by speaking, with feedback on what you said and how you said it. English, Urdu, French and Spanish.<br/><br/>
-      <img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/Umair0092/Bookify">📱 Bookify</a></h4>
       A cross-platform mobile app that brings travel tickets, event passes and local services (from flights and concerts to plumbers and tutors) into one booking flow.<br/><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Umair0092/marketplace-auction-system">🔨 Marketplace Auction System</a></h4>
-      A bidding-based online marketplace where sellers list items and buyers compete in live auctions.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -80,13 +83,13 @@ I'm a **Ruby on Rails developer** from Lahore, Pakistan, with 3+ years building 
 
 ### 📊 GitHub activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair0092&theme=tokyonight&hide_border=true&ring=CC0000&fire=CC0000&currStreakLabel=CC0000" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Umair0092/Umair0092/output/streak.svg" alt="GitHub streak" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umair0092/Umair0092/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Umair0092/Umair0092/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,100:7a0000&height=100&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="" />
