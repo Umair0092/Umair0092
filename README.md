@@ -1,22 +1,22 @@
 ## Hi, I'm Umair
 
-I'm a Rails developer in Lahore. Right now I lead a small team at QbitxSystems, which means a lot of architecture calls, code reviews and sprint planning, but I still write a good share of the code myself.
+I'm a software engineer in Lahore. I build products with Ruby on Rails, and my favourite part of the job is the stretch where a rough idea turns into something people actually use.
 
 ### How I got here
 
-I studied Computer Science at FAST from 2019 to 2023. The university project I remember best is a blocks game I wrote in x86 assembly for our COAL course ([Coal-work](https://github.com/Umair0092/Coal-work)). Moving things around the screen one register at a time is a good way to stop taking computers for granted.
+It started at FAST, where I studied Computer Science. The project I still think about is a blocks game I wrote in x86 assembly for our COAL course ([Coal-work](https://github.com/Umair0092/Coal-work)). When every pixel has to pass through a register, you stop taking anything a computer does for granted.
 
-I joined QbitxSystems in August 2023, right after graduating, and I've been writing Rails there ever since.
+After university I joined QbitxSystems, and that's where I started writing Rails every day.
 
-My first big project was **Startup-Pal**, an HR and payroll app for startups and small companies. I built a lot of its core models (employees, payroll, attendance, leave) and spent real time on the RSpec suite. That project is where I learned that good tests are what let you change code without being nervous about it.
+The first product I helped build there was **Startup-Pal**, an HR and payroll app for startups and small companies. I wrote much of its core (employees, payroll, attendance, leave) and put serious time into the RSpec suite. That paid off: bugs dropped by up to 80%, and I learned that good tests are what let you change code without being nervous about it.
 
-Next came **Lawzo**, a legal marketplace where clients find a lawyer and book a consultation, in person or over video. I worked on the AI agents for case and legal research, the video calls on Daily.co, and the live updates with ActionCable and native push notifications.
+Then came **Lawzo**, a legal marketplace. A client describes their problem, AI helps them find the right lawyer, and they book a consultation in person or over video. I built the AI research agents, the video calls on Daily.co, and the live updates and push notifications that hold the whole flow together.
 
-Today I'm Team Lead on **TireTag**, a traffic rules enforcement SaaS we build for a client. Leading has changed how I look at code. A lot of my job now is making sure everyone else on the team can move quickly without breaking things.
+These days I'm on **TireTag**, a traffic rules enforcement platform we build for a client. I own the technical side of the project: how it's structured, what goes into each release, and what gets merged.
 
 Along the way I tried other stacks to see how they compare: MERN, Flutter for mobile ([Bookify](https://github.com/Umair0092/Bookify)), FastAPI. I keep coming back to Rails, but each detour taught me something I brought back with me. At HackXVI, the LUMS web hackathon, my team finished in the top five out of 20.
 
-The work projects above are private client code, so you won't find them here. What you will find is what I build on my own time.
+That work is client code, so it stays private. What's below is what I build for myself.
 
 ### What I'm working on now
 
