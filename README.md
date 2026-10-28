@@ -53,11 +53,10 @@ I'm a **Ruby on Rails developer** from Lahore, Pakistan, with 3+ years building 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Umair0092/IntegrityX">📹 IntegrityX</a></h4>
-      Rails 8 app for live video rooms with authentication and a dashboard, built on the Solid stack (Queue, Cache, Cable).<br/><br/>
-      <img src="https://img.shields.io/badge/Rails_8-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hotwire-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <h4><a href="https://github.com/Umair0092/Bookify">📱 Bookify</a></h4>
+      A cross-platform mobile app that brings travel tickets, event passes and local services (from flights and concerts to plumbers and tutors) into one booking flow.<br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Umair0092/marketplace-auction-system">🔨 Marketplace Auction System</a></h4>
