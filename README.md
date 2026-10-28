@@ -1,42 +1,26 @@
-<div align="center">
+## Hi, I'm Umair
 
-<img src="./assets/header.svg" width="100%" alt="Umair Hassan, Ruby on Rails Developer" />
+I'm a Rails developer in Lahore. Right now I lead a small team at QbitxSystems, which means a lot of architecture calls, code reviews and sprint planning, but I still write a good share of the code myself.
 
-<img src="./assets/typing.svg" alt="Building production Rails apps since 2023" />
+### How I got here
 
-<p>
-  <a href="https://www.linkedin.com/in/umair-hassan-1a11b12b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:umairhassan0092@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Umair0092&style=for-the-badge&color=cc0000&label=Profile+views" alt="Profile views" />
-</p>
+I studied Computer Science at FAST from 2019 to 2023. The university project I remember best is a blocks game I wrote in x86 assembly for our COAL course ([Coal-work](https://github.com/Umair0092/Coal-work)). Moving things around the screen one register at a time is a good way to stop taking computers for granted.
 
-</div>
+I joined QbitxSystems in August 2023, right after graduating, and I've been writing Rails there ever since.
 
-### 👋 About me
+My first big project was **Startup-Pal**, an HR and payroll app for startups and small companies. I built a lot of its core models (employees, payroll, attendance, leave) and spent real time on the RSpec suite. That project is where I learned that good tests are what let you change code without being nervous about it.
 
-I'm a **Ruby on Rails developer** from Lahore, Pakistan, with 3+ years building and maintaining production Rails apps and REST APIs. I'm currently a **Team Lead at QbitxSystems**, where I own architecture decisions, PR reviews and sprint planning.
+Next came **Lawzo**, a legal marketplace where clients find a lawyer and book a consultation, in person or over video. I worked on the AI agents for case and legal research, the video calls on Daily.co, and the live updates with ActionCable and native push notifications.
 
-- 🛠️ I build with **Rails, Hotwire (Turbo + Stimulus), PostgreSQL and RSpec**
-- 🤖 These days: bringing **LLMs and vector search into Rails**, see [`embed_sync`](https://github.com/Umair0092/embed_sync)
-- 🏆 Top-five finish at **HackXVI, the LUMS Web Hackathon**
-- 🎓 BS Computer Science, **FAST NUCES**
+Today I'm Team Lead on **TireTag**, a traffic rules enforcement SaaS we build for a client. Leading has changed how I look at code. A lot of my job now is making sure everyone else on the team can move quickly without breaking things.
 
-### 🧰 Tech stack
+Along the way I tried other stacks to see how they compare: MERN, Flutter for mobile ([Bookify](https://github.com/Umair0092/Bookify)), FastAPI. I keep coming back to Rails, but each detour taught me something I brought back with me. At HackXVI, the LUMS web hackathon, my team finished in the top five out of 20.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,js,ts,react,tailwind,html,css&perline=10" alt="Backend and frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,flutter,dart,docker,git,github,linux,vscode&perline=10" alt="Tools" />
-</p>
+The work projects above are private client code, so you won't find them here. What you will find is what I build on my own time.
 
-**Rails toolbox:** ActiveRecord · Hotwire (Turbo Frames & Streams) · Stimulus · ActionCable · Solid Queue · RSpec · Devise · Kamal
+### What I'm working on now
 
-### 🚀 Featured projects
-
-#### 🎙️ [Nexora](https://github.com/Umair0092/Nexora): AI interview practice and hiring platform
-
-Answer out loud to an AI interviewer that has read your CV, then get a scored report on **what you said and how you came across on camera**. Hiring teams use the same interviewer to screen candidates, with a pipeline board, team scorecards and side-by-side comparison.
-
-<img src="https://img.shields.io/badge/Rails_8-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_LLM_+_Whisper-F55036?style=flat-square" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
+**[Nexora](https://github.com/Umair0092/Nexora)** is an interview practice app. You answer out loud to an AI interviewer that has read your CV, and afterwards you get a report on what you said and how you came across on camera. The camera analysis runs in the browser, so the video never leaves your device. Companies can use the same interviewer to screen candidates, with a pipeline board, team scorecards and side-by-side comparison. It's a Rails 8 API with a React front end, Postgres, and Groq for the LLM and Whisper calls.
 
 <p align="center">
   <img src="./assets/nexora/demo.gif" width="100%" alt="Nexora walkthrough: landing page, hiring pipeline, candidate review and comparison" />
@@ -44,44 +28,22 @@ Answer out loud to an AI interviewer that has read your CV, then get a scored re
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/nexora/report-section.jpg" alt="Scored interview feedback" /><p align="center"><sub>Per-answer scores with what worked and what to change</sub></p></td>
-    <td width="50%"><img src="./assets/nexora/job.jpg" alt="Hiring pipeline board" /><p align="center"><sub>Hiring pipeline with AI, team and CV-match scores</sub></p></td>
+    <td width="50%"><img src="./assets/nexora/report-section.jpg" alt="Interview feedback" /><p align="center"><sub>Feedback on each answer</sub></p></td>
+    <td width="50%"><img src="./assets/nexora/job.jpg" alt="Hiring pipeline" /><p align="center"><sub>The hiring pipeline</sub></p></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/nexora/candidate.jpg" alt="Candidate review" /><p align="center"><sub>Candidate review: transcripts, advisory AI summary, scorecards</sub></p></td>
-    <td width="50%"><img src="./assets/nexora/compare.jpg" alt="Candidate comparison" /><p align="center"><sub>Compare 2 to 4 candidates on the same questions</sub></p></td>
+    <td width="50%"><img src="./assets/nexora/candidate.jpg" alt="Candidate review" /><p align="center"><sub>Reviewing a candidate</sub></p></td>
+    <td width="50%"><img src="./assets/nexora/compare.jpg" alt="Comparing candidates" /><p align="center"><sub>Comparing candidates</sub></p></td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Umair0092/embed_sync">💎 embed_sync</a></h4>
-      A Ruby gem that keeps vector embeddings in sync with your ActiveRecord models, so semantic search in Rails stays fresh without hand-written callbacks.<br/><br/>
-      <img src="https://img.shields.io/badge/Ruby_Gem-CC342D?style=flat-square&logo=ruby&logoColor=white" />
-      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLM-000000?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Umair0092/Bookify">📱 Bookify</a></h4>
-      A cross-platform mobile app that brings travel tickets, event passes and local services (from flights and concerts to plumbers and tutors) into one booking flow.<br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-    </td>
-  </tr>
-</table>
+**[embed_sync](https://github.com/Umair0092/embed_sync)** is a Ruby gem that keeps vector embeddings in sync with your ActiveRecord models. [neighbor](https://github.com/ankane/neighbor) searches vectors and [ruby_llm](https://github.com/crmne/ruby_llm) generates them, but keeping them up to date as records change was still left to you. It's early, and I'm building it in the open through the roadmap issues.
 
-### 💼 What I work on professionally
+### What I use
 
-| Product | What it is | My role |
-|---|---|---|
-| **TireTag** | Traffic rules enforcement SaaS | Team Lead: architecture, PR reviews, sprint planning, core Rails + API work |
-| **Lawzo** | AI-powered legal marketplace | AI research agents, Daily.co video consultations, ActionCable + native push |
-| **Startup-Pal** | HR & payroll for startups and SMEs | Core models (payroll, attendance, leave), Hotwire UI, RSpec coverage |
+Ruby and Rails, Hotwire (Turbo and Stimulus), PostgreSQL, RSpec, ActionCable and Solid Queue. When a page needs more than Hotwire, I reach for React with Tailwind.
 
-<sub>These are private client and company codebases, so they aren't public here.</sub>
-
-### 📊 GitHub activity
+### Recent activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Umair0092/Umair0092/output/streak.svg" alt="GitHub streak" />
@@ -89,7 +51,7 @@ Answer out loud to an AI interviewer that has read your CV, then get a scored re
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umair0092/Umair0092/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Umair0092/Umair0092/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Umair0092/Umair0092/output/github-contribution-grid-snake.svg" alt="Contribution graph animation" width="100%" />
 </picture>
 
-<img src="./assets/footer.svg" width="100%" alt="" />
+If you want to talk about Rails, a role, or anything above, you can reach me on [LinkedIn](https://www.linkedin.com/in/umair-hassan-1a11b12b8) or at umairhassan0092@gmail.com.
