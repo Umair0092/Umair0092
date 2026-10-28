@@ -89,7 +89,10 @@ Interview practice you do out loud. An AI interviewer reads your CV and asks que
 ### Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Umair0092/Umair0092/output/streak.svg" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umair0092/Umair0092/output/streak-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Umair0092/Umair0092/output/streak.svg" alt="GitHub streak" />
+  </picture>
 </p>
 
 <picture>
