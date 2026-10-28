@@ -81,12 +81,12 @@ I'm a **Ruby on Rails developer** from Lahore, Pakistan, with 3+ years building 
 ### 📊 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair0092&theme=tokyonight&hide_border=true&ring=CC0000&fire=CC0000&currStreakLabel=CC0000" alt="Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair0092&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair0092&theme=tokyonight&hide_border=true&ring=CC0000&fire=CC0000&currStreakLabel=CC0000" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umair0092&theme=tokyo-night&hide_border=true&color=ffffff&line=CC0000&point=ffffff" alt="Activity graph" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umair0092/Umair0092/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Umair0092/Umair0092/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,100:7a0000&height=100&section=footer" width="100%" />
