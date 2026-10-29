@@ -19,7 +19,7 @@ I'm a software engineer in Lahore. I build products with Ruby on Rails, and my f
 
 <table>
   <tr>
-    <td width="150" valign="top"><b>2019 – 2023</b><br/><sub>FAST NUCES</sub></td>
+    <td width="150" valign="top"><b>FAST NUCES</b><br/><sub>University</sub></td>
     <td>Studied Computer Science. The project I still think about is a blocks game written in x86 assembly (<a href="https://github.com/Umair0092/Coal-work">Coal-work</a>). When every pixel has to pass through a register, you stop taking anything a computer does for granted.</td>
   </tr>
   <tr>
